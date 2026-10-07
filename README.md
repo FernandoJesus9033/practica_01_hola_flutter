@@ -1,17 +1,28 @@
-# practica_01_hola_flutter
+# Práctica 01 - Configuración del Entorno y Primera Aplicación Flutter
 
-A new Flutter project.
+## 📋 Datos Generales
+- **Institución:** Instituto Tecnológico Superior de Calkiní, en el Estado de Campeche
+- **Carrera:** Ingeniería en Sistemas Computacionales
+- **Asignatura:** Tópicos de Programación Móvil
+- **Maestra:** Ruth Betsaida Martínez Domínguez
+- **Alumno:** Fernando Jesus Colli Cach - 9033
+- **Semestre:** 7
+- **Grupo:** A
 
-## Getting Started
+## 🎯 Objetivo
+Instalar y validar Flutter con Visual Studio Code, reconocer la estructura de un proyecto y ejecutar una primera aplicación utilizando Hot Reload.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Material y Equipo
+- Computadora (laptop)
+- Internet
+- SDK Android Studio y emulador
+- VS Code
+- Git
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Instalación
+```bash
+git clone https://github.com/FernandoJesus9033/practica_01_hola_flutter.git
+cd practica_01_hola_flutter
+flutter pub get
